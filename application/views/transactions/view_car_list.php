@@ -10,7 +10,7 @@
     $msg = trim(@$list_data[0]->msg);
     if(!empty($msg)){
     ?>
-        <div style="width: auto; border: 1px solid #FF0000; padding-left: 15px; color: #FFF; background-color: red" ><h2><?php echo '--  SQL ERROR : '.$msg;?></h2></div>
+        <div style="width: auto; border: 1px solid #FF0000; padding-left: 15px; color: #FFF; background-color: red" ><h2><?php echo '--  SQL MSG : '.$msg;?></h2></div>
     <?php }else{?>
         <table id="list-grid" class="form-table">
             <thead>
