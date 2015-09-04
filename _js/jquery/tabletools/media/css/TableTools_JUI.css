@@ -1,0 +1,56 @@
+/*
+ * File:        TableTools.css
+ * Description: Styles for TableTools 2 with JUI theming
+ * Author:      Allan Jardine (www.sprymedia.co.uk)
+ * Language:    Javascript
+ * License:     LGPL / 3 point BSD
+ * Project:     DataTables
+ * 
+ * Copyright 2010 Allan Jardine, all rights reserved.
+ *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *
+ * Notes:
+ *   Generally speaking, please refer to the TableTools.css file - this file contains basic
+ *   modifications to that 'master' stylesheet for ThemeRoller.
+ *
+ * CSS name space:
+ *   DTTT                  DataTables TableTools
+ *
+ * Colour dictionary:
+ *   Button border         #d0d0d0
+ *   Button border hover   #999999
+ *   Hover background      #f0f0f0
+ *   Action blue           #4b66d9
+ *
+ * Style sheet provides:
+ *   CONTAINER             TableTools container element and styles applying to all components
+ *   SELECTING             Row selection styles
+ *   COLLECTIONS           Drop down list (collection) styles
+ *   PRINTING              Print display styles
+ *   MISC                  Minor misc styles
+ */
+
+
+/*
+ * CONTAINER
+ * TableTools container element and styles applying to all components
+ */
+div.DTTT_container {
+	float: left;
+}
+
+button.DTTT_button {
+	position: relative;
+	float: left;
+	
+}
+
+
+
+
+
+/*
+ * SELECTING
+ * Row selection styles
+ */

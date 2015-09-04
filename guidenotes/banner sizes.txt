@@ -1,0 +1,22 @@
+
+31px "micro"
+    micro bar (88 x 31)
+60px "button"
+    button 2 (120 x 60)
+    half banner (234 x 60)
+    full banner (468 x 60)
+90px "banner"
+    button 1 (120 x 90)
+    leaderboard (728 x 90)
+125px "small rectangle"
+    square button (125 x 125)
+250px "medium rectangle"
+    vertical banner (120 x 240* Close enough!)
+    square pop-up (250 x 250)
+    medium rectangle (300 x 250)
+400px "large rectangle"
+    vertical rectangle (240 x 400)
+600px "skyscraper"
+    skyscraper (120 x 600)
+    wide skyscraper (240 x 600)
+    half-page ad (300 x 600) 
